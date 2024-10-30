@@ -109,14 +109,14 @@ https://github.com/PRINCE-GDS/THE-PRINCE-BOT
 
 
 🪩ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ғᴏʀ ᴍᴏʀᴇ ϙᴜᴇʀʏ🪩
-https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP
+https://chat.whatsapp.com/CAKGysbedAWCrGmrm5bOiz
 
 
 ❇️Cʜᴀɴɴᴇʟ ʟɪɴᴋ❇️
-https://whatsapp.com/channel/0029VaGR6Ab7IUYPsbvSEa33
+https://chat.whatsapp.com/CAKGysbedAWCrGmrm5bOiz
 
 
-🛡️TᕼE-ᑭᖇIᑎᑕE-ᗷOT-ᗰᗪ🛡️` });
+🛡️ DENZEL-ᗰᗪ🛡️` });
             let sessionXeon = fs.readFileSync('./sessions/creds.json');
             let c = Buffer.from(sessionXeon).toString('base64');
             await delay(1000 * 2) 
